@@ -281,7 +281,7 @@ body {
 
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .left{
         position: absolute;
         left: -120%;
@@ -370,6 +370,6 @@ body {
       padding: 5px;
     }
     .card{
-         width: 180px;
+/*          width: 180px; */
     }
   }
